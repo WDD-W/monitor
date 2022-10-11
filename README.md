@@ -5,3 +5,4 @@ about currency price monitor
 
 ## 1.get url
 ### 1.1  found web about currency
+info about this project
